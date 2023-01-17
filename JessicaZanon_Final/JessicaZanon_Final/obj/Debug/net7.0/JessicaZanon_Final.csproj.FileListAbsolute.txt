@@ -1,0 +1,15 @@
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/bin/Debug/net7.0/JessicaZanon_Final
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/bin/Debug/net7.0/JessicaZanon_Final.deps.json
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/bin/Debug/net7.0/JessicaZanon_Final.runtimeconfig.json
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/bin/Debug/net7.0/JessicaZanon_Final.dll
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/bin/Debug/net7.0/JessicaZanon_Final.pdb
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.csproj.AssemblyReference.cache
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.AssemblyInfoInputs.cache
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.AssemblyInfo.cs
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.csproj.CoreCompileInputs.cache
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.dll
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/refint/JessicaZanon_Final.dll
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.pdb
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/JessicaZanon_Final.genruntimeconfig.cache
+/Users/test/Projects/JessicaZanon_Final/JessicaZanon_Final/obj/Debug/net7.0/ref/JessicaZanon_Final.dll
